@@ -33,7 +33,7 @@ git clone https://github.com/ricardorojr/rest-full-pedidos.git
 
 Abrir o terminal executar o comando: docker compose up, na raiz da aplicação.
 
-- porta bando de dados Mysql = 3306, após o comando ser executado entrar em algum gerenciador de banco de dados. 
+- porta do banco de dados Mysql = 3306, após o comando ser executado entrar em algum gerenciador de banco de dados. 
 Ex: phpmyadmin ou dbeaver; conectar no ServerHost = localhost, Port = 3306 
  
 ```
